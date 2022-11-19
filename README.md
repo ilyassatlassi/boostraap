@@ -12,11 +12,11 @@ HTML, Bootstrap
 
 ## Authors
 
-👤 **Author 1**
+👤 ilyass atlassi
 
-- GitHub:https://github.com/mumo-esther/mumo-esther
-- Twitter:https://twitter.com/EstherMawioo
-- LinkedIn: https://www.linkedin.com/in/esther-mawioo-58b636225/
+- GitHub: [@githubhandle](https://github.com/ilyassatlass)
+- Twitter: [@twitterhandle](https://twitter.com/ilyass_atlassi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ilyassatlassi/)
 
 👤 **Author 2**
 - GitHub:https://github.com/mumo-esther/mumo-esther
