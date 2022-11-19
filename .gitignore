@@ -1,3 +1,6 @@
 # .gitignore
 node_modules/
 .stylelintrc.json
+.hintrc
+package.json
+package-lock.json
